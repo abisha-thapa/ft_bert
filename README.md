@@ -7,7 +7,7 @@ We pre-trained the BERT transformer architecture on sequences of strategies. A s
 - __Learning rate__: 2e^{-05}
 
 
-Pre-trained model can be found at:
+> Pre-trained model can be found at:
 - __pretrained_model/bert_pretrained_model__
 
 # Fine-tuned model (FT)
